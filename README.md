@@ -1,2 +1,2 @@
 # .github
-profile readme
+repo for containing the profile readme
