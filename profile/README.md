@@ -1,3 +1,3 @@
-### keeping your data yours
+### keep your data yours
 
 developing local-first technology solutions that preserve privacy
